@@ -11,9 +11,8 @@ int main() {
     scanf("%s", str);
     getchar();
 
-
     fgets(sen, sizeof(sen), stdin);
-
+   
     printf("%c\n", ch);
     printf("%s\n", str);
     printf("%s", sen);
